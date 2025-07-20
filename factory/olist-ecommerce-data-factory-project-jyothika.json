@@ -1,0 +1,9 @@
+{
+	"name": "olist-ecommerce-data-factory-project-jyothika",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "697a08ca-d20c-4903-872a-2148e41a20c9",
+		"tenantId": "4ceeb920-6901-40f1-b3aa-50714370f95a"
+	}
+}
